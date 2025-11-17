@@ -1,5 +1,5 @@
 # Access Control System (QR + Face Biometrics)
-~~Project made for Software Engineering class~~
+_Project made for Software Engineering class_
 
 ## Project Description
 
